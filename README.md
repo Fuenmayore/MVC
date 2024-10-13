@@ -31,7 +31,7 @@ Sigue estos pasos para instalar y configurar el proyecto en tu máquina local:
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/Fuenmayore/MVC.git
 
 
 2. **Instala las dependencias:**
